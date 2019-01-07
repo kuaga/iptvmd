@@ -1,4 +1,8 @@
-#EXTM3U
+﻿#EXTM3U
+#EXTINF:-1,=== Обновлён: 5.01.2019 ===
+https://smarttvnews.ru/wp-content/uploads/2018/11/BT-2016-logo_color7890.png
+#EXTINF:-1,=== Обсуждение: smarttvnews.ru ===
+https://smarttvnews.ru/wp-content/uploads/2018/11/BT-2016-logo_color7890.png
 #EXTINF:-1,MOLDOVA 1
 http://185.163.195.166:9001/udp/228.33.29.1:1234
 #EXTINF:-1,MOLDOVA 2
